@@ -1,0 +1,31 @@
+
+
+.newswhole{
+  display: grid;
+  grid-template-columns: repeat(3,1fr);
+  
+  
+ 
+}
+.allnews{
+  width:360px;
+  margin-left:10%;
+  margin-bottom: 3%;
+  padding-left: 15px;
+
+  padding-right:6px;
+  border: solid 1px green;
+  box-shadow: 0.5px 0.5px black;
+}
+.title{
+  text-align: center;
+}
+.thankyou{
+  text-align: center;
+  padding-right: 57px;
+
+}
+.time{
+  padding-right: 30px;
+  float: right;
+}
